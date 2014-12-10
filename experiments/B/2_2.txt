@@ -1,0 +1,236 @@
+Downlink traffic: 1
+Downlink Channel Rate: 1 Mbps
+Downlink Traffic Load: 10.0504 Mbps
+Downlink Throughput: 0.742401 Mbps
+Downlink Throughput/Traffic Load: 0.0738676
+------------------------------------------------
+Uplink traffic: 19
+Uplink Channel Rate: 19 Mbps
+Uplink Traffic Load: 10.0504 Mbps
+Uplink Throughput: 4.79471 Mbps
+Uplink Throughput/Traffic Load: 0.477065
+------------------------------------------------
+Downlink traffic: 2
+Downlink Channel Rate: 2 Mbps
+Downlink Traffic Load: 10.0504 Mbps
+Downlink Throughput: 1.28334 Mbps
+Downlink Throughput/Traffic Load: 0.12769
+------------------------------------------------
+Uplink traffic: 18
+Uplink Channel Rate: 18 Mbps
+Uplink Traffic Load: 10.0504 Mbps
+Uplink Throughput: 4.72467 Mbps
+Uplink Throughput/Traffic Load: 0.470096
+------------------------------------------------
+Downlink traffic: 3
+Downlink Channel Rate: 3 Mbps
+Downlink Traffic Load: 10.0504 Mbps
+Downlink Throughput: 1.69286 Mbps
+Downlink Throughput/Traffic Load: 0.168436
+------------------------------------------------
+Uplink traffic: 17
+Uplink Channel Rate: 17 Mbps
+Uplink Traffic Load: 10.0504 Mbps
+Uplink Throughput: 4.64104 Mbps
+Uplink Throughput/Traffic Load: 0.461775
+------------------------------------------------
+Downlink traffic: 4
+Downlink Channel Rate: 4 Mbps
+Downlink Traffic Load: 10.0504 Mbps
+Downlink Throughput: 2.01462 Mbps
+Downlink Throughput/Traffic Load: 0.200451
+------------------------------------------------
+Uplink traffic: 16
+Uplink Channel Rate: 16 Mbps
+Uplink Traffic Load: 10.0504 Mbps
+Uplink Throughput: 4.55864 Mbps
+Uplink Throughput/Traffic Load: 0.453577
+------------------------------------------------
+Downlink traffic: 5
+Downlink Channel Rate: 5 Mbps
+Downlink Traffic Load: 10.0504 Mbps
+Downlink Throughput: 2.27911 Mbps
+Downlink Throughput/Traffic Load: 0.226768
+------------------------------------------------
+Uplink traffic: 15
+Uplink Channel Rate: 15 Mbps
+Uplink Traffic Load: 10.0504 Mbps
+Uplink Throughput: 4.45441 Mbps
+Uplink Throughput/Traffic Load: 0.443206
+------------------------------------------------
+Downlink traffic: 6
+Downlink Channel Rate: 6 Mbps
+Downlink Traffic Load: 10.0504 Mbps
+Downlink Throughput: 2.49046 Mbps
+Downlink Throughput/Traffic Load: 0.247797
+------------------------------------------------
+Uplink traffic: 14
+Uplink Channel Rate: 14 Mbps
+Uplink Traffic Load: 10.0504 Mbps
+Uplink Throughput: 4.35594 Mbps
+Uplink Throughput/Traffic Load: 0.433408
+------------------------------------------------
+Downlink traffic: 7
+Downlink Channel Rate: 7 Mbps
+Downlink Traffic Load: 10.0504 Mbps
+Downlink Throughput: 2.66844 Mbps
+Downlink Throughput/Traffic Load: 0.265505
+------------------------------------------------
+Uplink traffic: 13
+Uplink Channel Rate: 13 Mbps
+Uplink Traffic Load: 10.0504 Mbps
+Uplink Throughput: 4.23935 Mbps
+Uplink Throughput/Traffic Load: 0.421808
+------------------------------------------------
+Downlink traffic: 8
+Downlink Channel Rate: 8 Mbps
+Downlink Traffic Load: 10.0504 Mbps
+Downlink Throughput: 2.82706 Mbps
+Downlink Throughput/Traffic Load: 0.281287
+------------------------------------------------
+Uplink traffic: 12
+Uplink Channel Rate: 12 Mbps
+Uplink Traffic Load: 10.0504 Mbps
+Uplink Throughput: 4.11328 Mbps
+Uplink Throughput/Traffic Load: 0.409264
+------------------------------------------------
+Downlink traffic: 9
+Downlink Channel Rate: 9 Mbps
+Downlink Traffic Load: 10.0504 Mbps
+Downlink Throughput: 2.9556 Mbps
+Downlink Throughput/Traffic Load: 0.294077
+------------------------------------------------
+Uplink traffic: 11
+Uplink Channel Rate: 11 Mbps
+Uplink Traffic Load: 10.0504 Mbps
+Uplink Throughput: 3.97032 Mbps
+Uplink Throughput/Traffic Load: 0.39504
+------------------------------------------------
+Downlink traffic: 10
+Downlink Channel Rate: 10 Mbps
+Downlink Traffic Load: 10.0504 Mbps
+Downlink Throughput: 3.06148 Mbps
+Downlink Throughput/Traffic Load: 0.304612
+------------------------------------------------
+Uplink traffic: 10
+Uplink Channel Rate: 10 Mbps
+Uplink Traffic Load: 10.0504 Mbps
+Uplink Throughput: 3.81624 Mbps
+Uplink Throughput/Traffic Load: 0.379709
+------------------------------------------------
+Downlink traffic: 11
+Downlink Channel Rate: 11 Mbps
+Downlink Traffic Load: 10.0504 Mbps
+Downlink Throughput: 3.16653 Mbps
+Downlink Throughput/Traffic Load: 0.315065
+------------------------------------------------
+Uplink traffic: 9
+Uplink Channel Rate: 9 Mbps
+Uplink Traffic Load: 10.0504 Mbps
+Uplink Throughput: 3.64197 Mbps
+Uplink Throughput/Traffic Load: 0.362369
+------------------------------------------------
+Downlink traffic: 12
+Downlink Channel Rate: 12 Mbps
+Downlink Traffic Load: 10.0504 Mbps
+Downlink Throughput: 3.25511 Mbps
+Downlink Throughput/Traffic Load: 0.323878
+------------------------------------------------
+Uplink traffic: 8
+Uplink Channel Rate: 8 Mbps
+Uplink Traffic Load: 10.0504 Mbps
+Uplink Throughput: 3.44257 Mbps
+Uplink Throughput/Traffic Load: 0.342529
+------------------------------------------------
+Downlink traffic: 13
+Downlink Channel Rate: 13 Mbps
+Downlink Traffic Load: 10.0504 Mbps
+Downlink Throughput: 3.33257 Mbps
+Downlink Throughput/Traffic Load: 0.331584
+------------------------------------------------
+Uplink traffic: 7
+Uplink Channel Rate: 7 Mbps
+Uplink Traffic Load: 10.0504 Mbps
+Uplink Throughput: 3.21927 Mbps
+Uplink Throughput/Traffic Load: 0.320312
+------------------------------------------------
+Downlink traffic: 14
+Downlink Channel Rate: 14 Mbps
+Downlink Traffic Load: 10.0504 Mbps
+Downlink Throughput: 3.40714 Mbps
+Downlink Throughput/Traffic Load: 0.339004
+------------------------------------------------
+Uplink traffic: 6
+Uplink Channel Rate: 6 Mbps
+Uplink Traffic Load: 10.0504 Mbps
+Uplink Throughput: 2.96384 Mbps
+Uplink Throughput/Traffic Load: 0.294896
+------------------------------------------------
+Downlink traffic: 15
+Downlink Channel Rate: 15 Mbps
+Downlink Traffic Load: 10.0504 Mbps
+Downlink Throughput: 3.46976 Mbps
+Downlink Throughput/Traffic Load: 0.345235
+------------------------------------------------
+Uplink traffic: 5
+Uplink Channel Rate: 5 Mbps
+Uplink Traffic Load: 10.0504 Mbps
+Uplink Throughput: 2.6635 Mbps
+Uplink Throughput/Traffic Load: 0.265013
+------------------------------------------------
+Downlink traffic: 16
+Downlink Channel Rate: 16 Mbps
+Downlink Traffic Load: 10.0504 Mbps
+Downlink Throughput: 3.53114 Mbps
+Downlink Throughput/Traffic Load: 0.351342
+------------------------------------------------
+Uplink traffic: 4
+Uplink Channel Rate: 4 Mbps
+Uplink Traffic Load: 10.0504 Mbps
+Uplink Throughput: 2.3129 Mbps
+Uplink Throughput/Traffic Load: 0.230129
+------------------------------------------------
+Downlink traffic: 17
+Downlink Channel Rate: 17 Mbps
+Downlink Traffic Load: 10.0504 Mbps
+Downlink Throughput: 3.5777 Mbps
+Downlink Throughput/Traffic Load: 0.355975
+------------------------------------------------
+Uplink traffic: 3
+Uplink Channel Rate: 3 Mbps
+Uplink Traffic Load: 10.0504 Mbps
+Uplink Throughput: 1.89679 Mbps
+Uplink Throughput/Traffic Load: 0.188727
+------------------------------------------------
+Downlink traffic: 18
+Downlink Channel Rate: 18 Mbps
+Downlink Traffic Load: 10.0504 Mbps
+Downlink Throughput: 3.63785 Mbps
+Downlink Throughput/Traffic Load: 0.361959
+------------------------------------------------
+Uplink traffic: 2
+Uplink Channel Rate: 2 Mbps
+Uplink Traffic Load: 10.0504 Mbps
+Uplink Throughput: 1.39705 Mbps
+Uplink Throughput/Traffic Load: 0.139004
+------------------------------------------------
+Downlink traffic: 19
+Downlink Channel Rate: 19 Mbps
+Downlink Traffic Load: 10.0504 Mbps
+Downlink Throughput: 3.66833 Mbps
+Downlink Throughput/Traffic Load: 0.364993
+------------------------------------------------
+Uplink traffic: 1
+Uplink Channel Rate: 1 Mbps
+Uplink Traffic Load: 10.0504 Mbps
+Uplink Throughput: 0.77742 Mbps
+Uplink Throughput/Traffic Load: 0.0773519
+------------------------------------------------
+**********************************************
+Number of stations:10
+Simulation time:10
+Downlink data rate:1e+06
+Uplink data rate:1e+06
+Traffic ratio is (DL/UL):1
+Optimal bandwidth division ratio is (DL/UL):13/7
+**********************************************

@@ -1,0 +1,18 @@
+Number of stations:5
+Simulation time:10
+Downlink data rate:2e+06
+Uplink data rate:2e+06
+Traffic ratio is (DL/UL):1
+------------------------------------------------
+Channel Rate: 20 Mbps
+Downlink Load: 10.0541 Mbps
+Downlink Throughput: 0.891953 Mbps
+Uplink Load: 10.0541 Mbps
+Uplink Throughput: 3.79605 Mbps
+------------------------------------------------
+Traffic Load: 20.1083 Mbps
+Throughput: 4.688 Mbps
+------------------------------------------------
+**********************************************
+Throughput/Traffic Load: 0.234969
+**********************************************

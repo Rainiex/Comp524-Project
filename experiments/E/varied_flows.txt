@@ -1,0 +1,56 @@
+traffic1:
+DL: 
+Flow1 Ontime: 0.2s Offtime: 0.00311419s DataRate: 3.95612Mbps
+Flow2 Ontime: 0.2s Offtime: 0.159708s DataRate: 0.926207Mbps
+Flow3 Ontime: 0.2s Offtime: 0.314718s DataRate: 1.54025Mbps
+Flow4 Ontime: 0.2s Offtime: 0.236637s DataRate: 2.55599Mbps
+Flow5 Ontime: 0.2s Offtime: 0.261594s DataRate: 1.55575Mbps
+UL: 
+Flow1 Ontime: 0.2s Offtime: 0.510095s DataRate: 1.32946Mbps
+Flow2 Ontime: 0.2s Offtime: 0.077665s DataRate: 0.978077Mbps
+Flow3 Ontime: 0.2s Offtime: 0.240317s DataRate: 1.34181Mbps
+Flow4 Ontime: 0.2s Offtime: 0.380932s DataRate: 1.27916Mbps
+Flow5 Ontime: 0.2s Offtime: 0.150513s DataRate: 0.846377Mbps
+--------------------------------------------------
+traffic2:
+DL: 
+Flow1 Ontime: 0.2s Offtime: 0.0631084s DataRate: 1.37108Mbps
+Flow2 Ontime: 0.2s Offtime: 0.033675s DataRate: 3.51675Mbps
+Flow3 Ontime: 0.2s Offtime: 0.0235424s DataRate: 3.09077Mbps
+Flow4 Ontime: 0.2s Offtime: 0.532669s DataRate: 3.27467Mbps
+Flow5 Ontime: 0.2s Offtime: 0.500331s DataRate: 3.41531Mbps
+UL: 
+Flow1 Ontime: 0.2s Offtime: 0.177502s DataRate: 1.96203Mbps
+Flow2 Ontime: 0.2s Offtime: 0.0380576s DataRate: 1.37469Mbps
+Flow3 Ontime: 0.2s Offtime: 0.306172s DataRate: 0.659888Mbps
+Flow4 Ontime: 0.2s Offtime: 0.0459063s DataRate: 1.26435Mbps
+Flow5 Ontime: 0.2s Offtime: 0.00152213s DataRate: 1.92445Mbps
+--------------------------------------------------
+traffic3:
+DL: 
+Flow1 Ontime: 0.2s Offtime: 0.0105152s DataRate: 2.25495Mbps
+Flow2 Ontime: 0.2s Offtime: 0.37022s DataRate: 3.09311Mbps
+Flow3 Ontime: 0.2s Offtime: 0.0132608s DataRate: 1.78359Mbps
+Flow4 Ontime: 0.2s Offtime: 0.0221305s DataRate: 1.26267Mbps
+Flow5 Ontime: 0.2s Offtime: 0.233149s DataRate: 2.85981Mbps
+UL: 
+Flow1 Ontime: 0.2s Offtime: 0.551913s DataRate: 1.79169Mbps
+Flow2 Ontime: 0.2s Offtime: 0.150941s DataRate: 1.99997Mbps
+Flow3 Ontime: 0.2s Offtime: 0.336181s DataRate: 1.65158Mbps
+Flow4 Ontime: 0.2s Offtime: 0.0248565s DataRate: 1.6228Mbps
+Flow5 Ontime: 0.2s Offtime: 0.459427s DataRate: 1.43579Mbps
+--------------------------------------------------
+traffic4:
+DL: 
+Flow1 Ontime: 0.2s Offtime: 0.125572s DataRate: 1.62471Mbps
+Flow2 Ontime: 0.2s Offtime: 0.265721s DataRate: 0.839792Mbps
+Flow3 Ontime: 0.2s Offtime: 0.00401028s DataRate: 1.65294Mbps
+Flow4 Ontime: 0.2s Offtime: 0.25218s DataRate: 2.08426Mbps
+Flow5 Ontime: 0.2s Offtime: 0.302625s DataRate: 1.17075Mbps
+UL: 
+Flow1 Ontime: 0.2s Offtime: 0.612669s DataRate: 0.969407Mbps
+Flow2 Ontime: 0.2s Offtime: 0.473699s DataRate: 1.08011Mbps
+Flow3 Ontime: 0.2s Offtime: 1.23564s DataRate: 0.943724Mbps
+Flow4 Ontime: 0.2s Offtime: 0.512989s DataRate: 0.645602Mbps
+Flow5 Ontime: 0.2s Offtime: 1.48545s DataRate: 1.72832Mbps
+--------------------------------------------------

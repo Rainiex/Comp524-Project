@@ -1,0 +1,133 @@
+result2
+
+traffic 1
+------------------------------------------------
+Downlink traffic: 10
+Downlink Channel Rate: 10 Mbps
+Downlink Traffic Load: 13.6918 Mbps
+Downlink Throughput: 4.56285 Mbps
+Downlink Throughput/Traffic Load: 0.333255
+------------------------------------------------
+Uplink traffic: 10
+Uplink Channel Rate: 10 Mbps
+Uplink Traffic Load: 4.09734 Mbps
+Uplink Throughput: 4.09653 Mbps
+Uplink Throughput/Traffic Load: 0.999804
+
+
+the best one is 13 and result is 9.27539
+
+
+//caution
+each interval, every station will send a packet to access point, and ap will reallocate the bandwidth. 
+So, the efficient through put need to minus the special packet
+
+it is like 
+total_Tput += recvPackets * 1052 * 8.0 / sim_time / 1024/ 1024;
+
+so need to minus 5sta * 1packet each * 1052 * 8.0 /sim_time/1024/1024
+
+
+traffic 2
+------------------------------------------------
+Downlink traffic: 10
+Downlink Channel Rate: 10 Mbps
+Downlink Traffic Load: 10.9629 Mbps
+Downlink Throughput: 4.51068 Mbps
+Downlink Throughput/Traffic Load: 0.41145
+------------------------------------------------
+Uplink traffic: 10
+Uplink Channel Rate: 10 Mbps
+Uplink Traffic Load: 1.83638 Mbps
+Uplink Throughput: 1.83638 Mbps
+Uplink Throughput/Traffic Load: 1
+------------------------------------------------
+
+the best one is 17 and result is 7.51085
+
+
+traffic 3
+------------------------------------------------
+Downlink traffic: 10
+Downlink Channel Rate: 10 Mbps
+Downlink Traffic Load: 15.7256 Mbps
+Downlink Throughput: 4.56205 Mbps
+Downlink Throughput/Traffic Load: 0.290104
+------------------------------------------------
+Uplink traffic: 10
+Uplink Channel Rate: 10 Mbps
+Uplink Traffic Load: 5.43449 Mbps
+Uplink Throughput: 5.21698 Mbps
+Uplink Throughput/Traffic Load: 0.959976
+------------------------------------------------
+
+the best one is 10 and result is 9.77903
+
+traffic 4
+------------------------------------------------
+Downlink traffic: 10
+Downlink Channel Rate: 10 Mbps
+Downlink Traffic Load: 21.075 Mbps
+Downlink Throughput: 4.56446 Mbps
+Downlink Throughput/Traffic Load: 0.216582
+------------------------------------------------
+Uplink traffic: 10
+Uplink Channel Rate: 10 Mbps
+Uplink Traffic Load: 1.1068 Mbps
+Uplink Throughput: 1.1068 Mbps
+Uplink Throughput/Traffic Load: 1
+------------------------------------------------
+
+
+the best one is 18 and result is 6.96025
+
+------------------------------------------------
+Downlink traffic: 18
+Downlink Channel Rate: 18 Mbps
+Downlink Traffic Load: 21.075 Mbps
+Downlink Throughput: 5.86148 Mbps
+Downlink Throughput/Traffic Load: 0.278125
+------------------------------------------------
+Uplink traffic: 2
+Uplink Channel Rate: 2 Mbps
+Uplink Traffic Load: 1.1068 Mbps
+Uplink Throughput: 1.09878 Mbps
+Uplink Throughput/Traffic Load: 0.992748
+------------------------------------------------
+
+
+
+=================
+0.05
+best total_Tput is 7.73156
+Avg down_Tput is 4.38066 and Avg up_Tut is 3.35091
+0.1
+best total_Tput is 9.56553
+Avg down_Tput is 5.58859 and Avg up_Tut is 3.97694
+0.2
+best total_Tput is 10.0094
+Avg down_Tput is 5.90402 and Avg up_Tut is 4.10536
+0.3
+best total_Tput is 10.01
+Avg down_Tput is 5.91987 and Avg up_Tut is 4.09008
+0.4
+best total_Tput is 9.94356
+Avg down_Tput is 5.86389 and Avg up_Tut is 4.07968
+0.5
+best total_Tput is 9.86411
+Avg down_Tput is 5.8374 and Avg up_Tut is 4.02671
+0.6
+best total_Tput is 9.85123
+Avg down_Tput is 5.85238 and Avg up_Tut is 3.99885
+0.7
+best total_Tput is 9.78122
+Avg down_Tput is 5.78782 and Avg up_Tut is 3.99341
+0.8
+best total_Tput is 9.77599
+Avg down_Tput is 5.82646 and Avg up_Tut is 3.94952
+0.9
+best total_Tput is 9.70918
+Avg down_Tput is 5.75287 and Avg up_Tut is 3.95631
+1.0
+best total_Tput is 9.66425
+Avg down_Tput is 5.75393 and Avg up_Tut is 3.91033

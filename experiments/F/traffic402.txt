@@ -1,0 +1,859 @@
+Waf: Entering directory `/Users/Rainiex/Programs/ns-allinone-3.21/ns-3.21/build'
+[1993/2315] cxx: scratch/naive-adjust3.cc -> build/scratch/naive-adjust3.cc.11.o
+[2314/2315] cxxprogram: build/scratch/naive-adjust3.cc.11.o -> build/scratch/naive-adjust3
+Waf: Leaving directory `/Users/Rainiex/Programs/ns-allinone-3.21/ns-3.21/build'
+'build' finished successfully (4.392s)
+up link recved packets 1379
+sta count is 0
+ap count is 0
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 57
+current packets in ap need to be sent to sta 1 is 73
+current packets in ap need to be sent to sta 2 is 0
+current packets in ap need to be sent to sta 3 is 0
+current packets in ap need to be sent to sta 4 is 0
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 0
+current packets in sta 1 need to be sent to ap is 0
+current packets in sta 2 need to be sent to ap is 0
+current packets in sta 3 need to be sent to ap is 0
+current packets in sta 4 need to be sent to ap is 0
+time 0 total tp is 3.13019
+------------------------------------------------
+------------------------------------------------
+sta count is 5
+ap count is 55
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 82
+current packets in ap need to be sent to sta 1 is 121
+current packets in ap need to be sent to sta 2 is 1
+current packets in ap need to be sent to sta 3 is 1
+current packets in ap need to be sent to sta 4 is 1
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 1
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 1 total tp is 6.46103
+------------------------------------------------
+------------------------------------------------
+sta count is 5
+ap count is 50
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 104
+current packets in ap need to be sent to sta 1 is 93
+current packets in ap need to be sent to sta 2 is 1
+current packets in ap need to be sent to sta 3 is 1
+current packets in ap need to be sent to sta 4 is 1
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 5
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 2 total tp is 6.50116
+------------------------------------------------
+------------------------------------------------
+sta count is 5
+ap count is 48
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 67
+current packets in ap need to be sent to sta 1 is 128
+current packets in ap need to be sent to sta 2 is 1
+current packets in ap need to be sent to sta 3 is 1
+current packets in ap need to be sent to sta 4 is 1
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 17
+current packets in sta 1 need to be sent to ap is 30
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 3 total tp is 5.85907
+------------------------------------------------
+------------------------------------------------
+sta count is 40
+ap count is 67
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 135
+current packets in ap need to be sent to sta 1 is 78
+current packets in ap need to be sent to sta 2 is 1
+current packets in ap need to be sent to sta 3 is 1
+current packets in ap need to be sent to sta 4 is 1
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 14
+current packets in sta 1 need to be sent to ap is 39
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 4 total tp is 7.66495
+------------------------------------------------
+------------------------------------------------
+sta count is 5
+ap count is 82
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 65
+current packets in ap need to be sent to sta 1 is 165
+current packets in ap need to be sent to sta 2 is 1
+current packets in ap need to be sent to sta 3 is 1
+current packets in ap need to be sent to sta 4 is 1
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 1
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 5 total tp is 6.50116
+------------------------------------------------
+------------------------------------------------
+sta count is 5
+ap count is 76
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 118
+current packets in ap need to be sent to sta 1 is 75
+current packets in ap need to be sent to sta 2 is 12
+current packets in ap need to be sent to sta 3 is 23
+current packets in ap need to be sent to sta 4 is 1
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 10
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 6 total tp is 6.09985
+------------------------------------------------
+------------------------------------------------
+sta count is 5
+ap count is 91
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 40
+current packets in ap need to be sent to sta 1 is 106
+current packets in ap need to be sent to sta 2 is 13
+current packets in ap need to be sent to sta 3 is 32
+current packets in ap need to be sent to sta 4 is 52
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 13
+current packets in sta 1 need to be sent to ap is 14
+current packets in sta 2 need to be sent to ap is 37
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 7 total tp is 2.96967
+------------------------------------------------
+------------------------------------------------
+sta count is 47
+ap count is 192
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 94
+current packets in ap need to be sent to sta 1 is 170
+current packets in ap need to be sent to sta 2 is 13
+current packets in ap need to be sent to sta 3 is 10
+current packets in ap need to be sent to sta 4 is 57
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 8
+current packets in sta 1 need to be sent to ap is 38
+current packets in sta 2 need to be sent to ap is 38
+current packets in sta 3 need to be sent to ap is 34
+current packets in sta 4 need to be sent to ap is 39
+time 8 total tp is 9.23004
+------------------------------------------------
+------------------------------------------------
+sta count is 89
+ap count is 183
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 116
+current packets in ap need to be sent to sta 1 is 144
+current packets in ap need to be sent to sta 2 is 17
+current packets in ap need to be sent to sta 3 is 30
+current packets in ap need to be sent to sta 4 is 26
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 1
+current packets in sta 1 need to be sent to ap is 15
+current packets in sta 2 need to be sent to ap is 6
+current packets in sta 3 need to be sent to ap is 31
+current packets in sta 4 need to be sent to ap is 36
+time 9 total tp is 9.51096
+------------------------------------------------
+------------------------------------------------
+sta count is 5
+ap count is 184
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 94
+current packets in ap need to be sent to sta 1 is 139
+current packets in ap need to be sent to sta 2 is 11
+current packets in ap need to be sent to sta 3 is 23
+current packets in ap need to be sent to sta 4 is 70
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 14
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 10 total tp is 7.06299
+------------------------------------------------
+------------------------------------------------
+sta count is 5
+ap count is 179
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 75
+current packets in ap need to be sent to sta 1 is 155
+current packets in ap need to be sent to sta 2 is 11
+current packets in ap need to be sent to sta 3 is 32
+current packets in ap need to be sent to sta 4 is 57
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 8
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 11 total tp is 6.86234
+------------------------------------------------
+------------------------------------------------
+sta count is 9
+ap count is 166
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 115
+current packets in ap need to be sent to sta 1 is 129
+current packets in ap need to be sent to sta 2 is 4
+current packets in ap need to be sent to sta 3 is 27
+current packets in ap need to be sent to sta 4 is 42
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 5
+current packets in sta 1 need to be sent to ap is 44
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 12 total tp is 6.62155
+------------------------------------------------
+------------------------------------------------
+sta count is 52
+ap count is 153
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 92
+current packets in ap need to be sent to sta 1 is 112
+current packets in ap need to be sent to sta 2 is 12
+current packets in ap need to be sent to sta 3 is 24
+current packets in ap need to be sent to sta 4 is 64
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 5
+current packets in sta 1 need to be sent to ap is 46
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 13 total tp is 8.18665
+------------------------------------------------
+------------------------------------------------
+sta count is 5
+ap count is 154
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 106
+current packets in ap need to be sent to sta 1 is 131
+current packets in ap need to be sent to sta 2 is 12
+current packets in ap need to be sent to sta 3 is 31
+current packets in ap need to be sent to sta 4 is 27
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 19
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 14 total tp is 7.30377
+------------------------------------------------
+------------------------------------------------
+sta count is 5
+ap count is 148
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 79
+current packets in ap need to be sent to sta 1 is 147
+current packets in ap need to be sent to sta 2 is 15
+current packets in ap need to be sent to sta 3 is 13
+current packets in ap need to be sent to sta 4 is 46
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 4
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 31
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 15 total tp is 7.22351
+------------------------------------------------
+------------------------------------------------
+sta count is 27
+ap count is 135
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 136
+current packets in ap need to be sent to sta 1 is 70
+current packets in ap need to be sent to sta 2 is 6
+current packets in ap need to be sent to sta 3 is 21
+current packets in ap need to be sent to sta 4 is 53
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 1
+current packets in sta 1 need to be sent to ap is 28
+current packets in sta 2 need to be sent to ap is 36
+current packets in sta 3 need to be sent to ap is 5
+current packets in sta 4 need to be sent to ap is 2
+time 16 total tp is 8.3873
+------------------------------------------------
+------------------------------------------------
+sta count is 26
+ap count is 128
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 80
+current packets in ap need to be sent to sta 1 is 142
+current packets in ap need to be sent to sta 2 is 15
+current packets in ap need to be sent to sta 3 is 18
+current packets in ap need to be sent to sta 4 is 26
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 2
+current packets in sta 1 need to be sent to ap is 40
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 30
+current packets in sta 4 need to be sent to ap is 38
+time 17 total tp is 8.26691
+------------------------------------------------
+------------------------------------------------
+sta count is 57
+ap count is 133
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 87
+current packets in ap need to be sent to sta 1 is 109
+current packets in ap need to be sent to sta 2 is 17
+current packets in ap need to be sent to sta 3 is 29
+current packets in ap need to be sent to sta 4 is 43
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 21
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 23
+current packets in sta 4 need to be sent to ap is 31
+time 18 total tp is 8.62808
+------------------------------------------------
+------------------------------------------------
+sta count is 20
+ap count is 132
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 84
+current packets in ap need to be sent to sta 1 is 106
+current packets in ap need to be sent to sta 2 is 13
+current packets in ap need to be sent to sta 3 is 29
+current packets in ap need to be sent to sta 4 is 52
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 16
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 19 total tp is 6.74194
+------------------------------------------------
+------------------------------------------------
+sta count is 5
+ap count is 137
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 101
+current packets in ap need to be sent to sta 1 is 125
+current packets in ap need to be sent to sta 2 is 23
+current packets in ap need to be sent to sta 3 is 24
+current packets in ap need to be sent to sta 4 is 16
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 1
+current packets in sta 1 need to be sent to ap is 13
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 20 total tp is 5.93933
+------------------------------------------------
+------------------------------------------------
+sta count is 11
+ap count is 153
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 32
+current packets in ap need to be sent to sta 1 is 172
+current packets in ap need to be sent to sta 2 is 8
+current packets in ap need to be sent to sta 3 is 34
+current packets in ap need to be sent to sta 4 is 56
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 6
+current packets in sta 1 need to be sent to ap is 40
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 21 total tp is 8.02612
+------------------------------------------------
+------------------------------------------------
+sta count is 19
+ap count is 136
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 85
+current packets in ap need to be sent to sta 1 is 78
+current packets in ap need to be sent to sta 2 is 25
+current packets in ap need to be sent to sta 3 is 47
+current packets in ap need to be sent to sta 4 is 56
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 16
+current packets in sta 1 need to be sent to ap is 15
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 22 total tp is 5.8992
+------------------------------------------------
+------------------------------------------------
+sta count is 13
+ap count is 170
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 140
+current packets in ap need to be sent to sta 1 is 127
+current packets in ap need to be sent to sta 2 is 19
+current packets in ap need to be sent to sta 3 is 22
+current packets in ap need to be sent to sta 4 is 16
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 9
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 26
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 23 total tp is 7.3439
+------------------------------------------------
+------------------------------------------------
+sta count is 23
+ap count is 160
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 117
+current packets in ap need to be sent to sta 1 is 106
+current packets in ap need to be sent to sta 2 is 18
+current packets in ap need to be sent to sta 3 is 25
+current packets in ap need to be sent to sta 4 is 48
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 1
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 37
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 24 total tp is 7.94586
+------------------------------------------------
+------------------------------------------------
+sta count is 5
+ap count is 158
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 92
+current packets in ap need to be sent to sta 1 is 140
+current packets in ap need to be sent to sta 2 is 14
+current packets in ap need to be sent to sta 3 is 33
+current packets in ap need to be sent to sta 4 is 30
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 11
+current packets in sta 1 need to be sent to ap is 43
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 8
+current packets in sta 4 need to be sent to ap is 4
+time 25 total tp is 6.62155
+------------------------------------------------
+------------------------------------------------
+sta count is 46
+ap count is 168
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 135
+current packets in ap need to be sent to sta 1 is 108
+current packets in ap need to be sent to sta 2 is 13
+current packets in ap need to be sent to sta 3 is 33
+current packets in ap need to be sent to sta 4 is 33
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 16
+current packets in sta 1 need to be sent to ap is 40
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 29
+current packets in sta 4 need to be sent to ap is 37
+time 26 total tp is 7.66495
+------------------------------------------------
+------------------------------------------------
+sta count is 55
+ap count is 203
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 187
+current packets in ap need to be sent to sta 1 is 89
+current packets in ap need to be sent to sta 2 is 11
+current packets in ap need to be sent to sta 3 is 23
+current packets in ap need to be sent to sta 4 is 47
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 1
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 19
+current packets in sta 4 need to be sent to ap is 33
+time 27 total tp is 8.54782
+------------------------------------------------
+------------------------------------------------
+sta count is 5
+ap count is 199
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 139
+current packets in ap need to be sent to sta 1 is 141
+current packets in ap need to be sent to sta 2 is 16
+current packets in ap need to be sent to sta 3 is 31
+current packets in ap need to be sent to sta 4 is 23
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 1
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 28 total tp is 6.62155
+------------------------------------------------
+------------------------------------------------
+sta count is 5
+ap count is 190
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 106
+current packets in ap need to be sent to sta 1 is 129
+current packets in ap need to be sent to sta 2 is 20
+current packets in ap need to be sent to sta 3 is 36
+current packets in ap need to be sent to sta 4 is 54
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 15
+current packets in sta 1 need to be sent to ap is 27
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 29 total tp is 6.98273
+------------------------------------------------
+------------------------------------------------
+sta count is 32
+ap count is 188
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 154
+current packets in ap need to be sent to sta 1 is 96
+current packets in ap need to be sent to sta 2 is 8
+current packets in ap need to be sent to sta 3 is 21
+current packets in ap need to be sent to sta 4 is 61
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 14
+current packets in sta 1 need to be sent to ap is 40
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 30 total tp is 8.66821
+------------------------------------------------
+------------------------------------------------
+sta count is 11
+ap count is 174
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 116
+current packets in ap need to be sent to sta 1 is 146
+current packets in ap need to be sent to sta 2 is 19
+current packets in ap need to be sent to sta 3 is 21
+current packets in ap need to be sent to sta 4 is 26
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 1
+current packets in sta 1 need to be sent to ap is 7
+current packets in sta 2 need to be sent to ap is 20
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 31 total tp is 7.26364
+------------------------------------------------
+------------------------------------------------
+sta count is 17
+ap count is 164
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 81
+current packets in ap need to be sent to sta 1 is 130
+current packets in ap need to be sent to sta 2 is 13
+current packets in ap need to be sent to sta 3 is 29
+current packets in ap need to be sent to sta 4 is 65
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 1
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 37
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 32 total tp is 8.10638
+------------------------------------------------
+------------------------------------------------
+sta count is 5
+ap count is 158
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 137
+current packets in ap need to be sent to sta 1 is 107
+current packets in ap need to be sent to sta 2 is 12
+current packets in ap need to be sent to sta 3 is 16
+current packets in ap need to be sent to sta 4 is 36
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 20
+current packets in sta 1 need to be sent to ap is 12
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 33 total tp is 6.86234
+------------------------------------------------
+------------------------------------------------
+sta count is 23
+ap count is 154
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 114
+current packets in ap need to be sent to sta 1 is 132
+current packets in ap need to be sent to sta 2 is 13
+current packets in ap need to be sent to sta 3 is 24
+current packets in ap need to be sent to sta 4 is 20
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 16
+current packets in sta 1 need to be sent to ap is 40
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 11
+current packets in sta 4 need to be sent to ap is 5
+time 34 total tp is 8.26691
+------------------------------------------------
+------------------------------------------------
+sta count is 15
+ap count is 160
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 156
+current packets in ap need to be sent to sta 1 is 58
+current packets in ap need to be sent to sta 2 is 15
+current packets in ap need to be sent to sta 3 is 27
+current packets in ap need to be sent to sta 4 is 52
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 1
+current packets in sta 1 need to be sent to ap is 7
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 28
+current packets in sta 4 need to be sent to ap is 35
+time 35 total tp is 4.81567
+------------------------------------------------
+------------------------------------------------
+sta count is 40
+ap count is 225
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 214
+current packets in ap need to be sent to sta 1 is 135
+current packets in ap need to be sent to sta 2 is 12
+current packets in ap need to be sent to sta 3 is 15
+current packets in ap need to be sent to sta 4 is 1
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 4
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 7
+current packets in sta 4 need to be sent to ap is 30
+time 36 total tp is 8.10638
+------------------------------------------------
+------------------------------------------------
+sta count is 5
+ap count is 218
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 138
+current packets in ap need to be sent to sta 1 is 153
+current packets in ap need to be sent to sta 2 is 20
+current packets in ap need to be sent to sta 3 is 28
+current packets in ap need to be sent to sta 4 is 29
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 19
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 37 total tp is 7.10312
+------------------------------------------------
+------------------------------------------------
+sta count is 16
+ap count is 202
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 189
+current packets in ap need to be sent to sta 1 is 84
+current packets in ap need to be sent to sta 2 is 19
+current packets in ap need to be sent to sta 3 is 11
+current packets in ap need to be sent to sta 4 is 49
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 12
+current packets in sta 1 need to be sent to ap is 41
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 38 total tp is 7.30377
+------------------------------------------------
+------------------------------------------------
+sta count is 40
+ap count is 190
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 127
+current packets in ap need to be sent to sta 1 is 133
+current packets in ap need to be sent to sta 2 is 15
+current packets in ap need to be sent to sta 3 is 41
+current packets in ap need to be sent to sta 4 is 25
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 1
+current packets in sta 1 need to be sent to ap is 41
+current packets in sta 2 need to be sent to ap is 15
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 39 total tp is 7.82547
+------------------------------------------------
+------------------------------------------------
+sta count is 15
+ap count is 195
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 170
+current packets in ap need to be sent to sta 1 is 69
+current packets in ap need to be sent to sta 2 is 17
+current packets in ap need to be sent to sta 3 is 32
+current packets in ap need to be sent to sta 4 is 59
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 8
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 40
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 40 total tp is 6.05972
+------------------------------------------------
+------------------------------------------------
+sta count is 11
+ap count is 241
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 209
+current packets in ap need to be sent to sta 1 is 81
+current packets in ap need to be sent to sta 2 is 7
+current packets in ap need to be sent to sta 3 is 29
+current packets in ap need to be sent to sta 4 is 66
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 15
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 6
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 41 total tp is 4.57489
+------------------------------------------------
+------------------------------------------------
+sta count is 12
+ap count is 295
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 269
+current packets in ap need to be sent to sta 1 is 119
+current packets in ap need to be sent to sta 2 is 18
+current packets in ap need to be sent to sta 3 is 32
+current packets in ap need to be sent to sta 4 is 10
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 8
+current packets in sta 1 need to be sent to ap is 26
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 42 total tp is 7.22351
+------------------------------------------------
+------------------------------------------------
+sta count is 28
+ap count is 281
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 186
+current packets in ap need to be sent to sta 1 is 138
+current packets in ap need to be sent to sta 2 is 20
+current packets in ap need to be sent to sta 3 is 35
+current packets in ap need to be sent to sta 4 is 51
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 1
+current packets in sta 1 need to be sent to ap is 44
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 14
+current packets in sta 4 need to be sent to ap is 6
+time 43 total tp is 8.58795
+------------------------------------------------
+------------------------------------------------
+sta count is 17
+ap count is 268
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 232
+current packets in ap need to be sent to sta 1 is 95
+current packets in ap need to be sent to sta 2 is 36
+current packets in ap need to be sent to sta 3 is 18
+current packets in ap need to be sent to sta 4 is 39
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 13
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 32
+current packets in sta 4 need to be sent to ap is 37
+time 44 total tp is 8.34717
+------------------------------------------------
+------------------------------------------------
+sta count is 37
+ap count is 261
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 181
+current packets in ap need to be sent to sta 1 is 148
+current packets in ap need to be sent to sta 2 is 25
+current packets in ap need to be sent to sta 3 is 21
+current packets in ap need to be sent to sta 4 is 37
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 17
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 5
+current packets in sta 4 need to be sent to ap is 22
+time 45 total tp is 8.14651
+------------------------------------------------
+------------------------------------------------
+sta count is 5
+ap count is 255
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 155
+current packets in ap need to be sent to sta 1 is 139
+current packets in ap need to be sent to sta 2 is 29
+current packets in ap need to be sent to sta 3 is 29
+current packets in ap need to be sent to sta 4 is 53
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 1
+current packets in sta 1 need to be sent to ap is 11
+current packets in sta 2 need to be sent to ap is 1
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 46 total tp is 7.14325
+------------------------------------------------
+------------------------------------------------
+sta count is 8
+ap count is 238
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 223
+current packets in ap need to be sent to sta 1 is 114
+current packets in ap need to be sent to sta 2 is 18
+current packets in ap need to be sent to sta 3 is 15
+current packets in ap need to be sent to sta 4 is 17
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 1
+current packets in sta 1 need to be sent to ap is 39
+current packets in sta 2 need to be sent to ap is 9
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 47 total tp is 6.58142
+------------------------------------------------
+------------------------------------------------
+sta count is 51
+ap count is 223
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 130
+current packets in ap need to be sent to sta 1 is 142
+current packets in ap need to be sent to sta 2 is 13
+current packets in ap need to be sent to sta 3 is 38
+current packets in ap need to be sent to sta 4 is 51
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 17
+current packets in sta 1 need to be sent to ap is 39
+current packets in sta 2 need to be sent to ap is 44
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 48 total tp is 9.43069
+------------------------------------------------
+------------------------------------------------
+sta count is 30
+ap count is 214
+------------------------------------------------
+current packets in ap need to be sent to sta 0 is 179
+current packets in ap need to be sent to sta 1 is 104
+current packets in ap need to be sent to sta 2 is 7
+current packets in ap need to be sent to sta 3 is 23
+current packets in ap need to be sent to sta 4 is 49
+------------------------------------------------
+current packets in sta 0 need to be sent to ap is 18
+current packets in sta 1 need to be sent to ap is 1
+current packets in sta 2 need to be sent to ap is 13
+current packets in sta 3 need to be sent to ap is 1
+current packets in sta 4 need to be sent to ap is 1
+time 49 total tp is 7.66495
+------------------------------------------------
+------------------------------------------------
+best total_Tput is 7.17776
+Avg down_Tput is 5.92408 and Avg up_Tut is 1.25368
+Uplink Traffic Load: 26.7406 Mbps

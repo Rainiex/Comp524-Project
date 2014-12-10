@@ -1,0 +1,12 @@
+Channel Rate: 20 Mbps
+Downlink Load: 7.16572 Mbps
+Downlink Throughput: 3.03869 Mbps
+Uplink Load: 3.97293 Mbps
+Uplink Throughput: 3.89267 Mbps
+------------------------------------------------
+Traffic Load: 11.1387 Mbps
+Throughput: 6.93136 Mbps
+------------------------------------------------
+**********************************************
+Throughput/Traffic Load: 0.432803
+**********************************************
